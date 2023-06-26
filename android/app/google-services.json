@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365702523398",
+    "project_id": "parenthoodapp-flutter-db",
+    "storage_bucket": "parenthoodapp-flutter-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365702523398:android:ae3fb71fe967d303923187",
+        "android_client_info": {
+          "package_name": "com.example.parenthood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365702523398-g47flicl5lbtcm1ov3s5e0tuqp4ird7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00GHKFc_ersBvHpAxKlST_oebPrtyeI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365702523398-g47flicl5lbtcm1ov3s5e0tuqp4ird7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
